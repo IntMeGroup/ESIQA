@@ -14,4 +14,4 @@ This is the official repo of the paper [ESIQA: Perceptual Quality Assessment of 
 
 The constructed ESIQA database can be accessed using the links below.
 
-- Download OAVQA database: [[百度网盘](https://pan.baidu.com/s/13IRUVTwf4yU-OSZziCjJVg?pwd=qsxc)] Extraction code: qsxc
+- Download ESIQA database: [[百度网盘](https://pan.baidu.com/s/13IRUVTwf4yU-OSZziCjJVg?pwd=qsxc)] Extraction code: qsxc
